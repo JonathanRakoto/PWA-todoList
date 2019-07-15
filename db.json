@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "hello",
+      "state": false
+    },
+    {
+      "id": "8d913ac5-6764-4dc7-8ed7-7cc7fc3cfe26",
+      "title": "azerty",
+      "state": false
+    },
+    {
+      "id": "644b4fdf-bd10-4f80-ab80-f0da079db780",
+      "title": "jonathan",
+      "state": false
+    }
+  ]
+}

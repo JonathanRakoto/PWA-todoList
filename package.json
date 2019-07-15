@@ -1,0 +1,18 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "RAKOTONIRINA Jonathan <jonathrakoto91400@gmail.com>",
+  "scripts": {
+    "gen": "npx workbox generateSW"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "workbox-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "idb": "^4.0.3",
+    "lit-element": "^2.1.0"
+  }
+}
